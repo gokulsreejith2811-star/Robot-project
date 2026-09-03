@@ -3,8 +3,8 @@
 
 ##sensors used
 
-###lider
-###ultrsonic
-###irsensor
-###light sencot
-###gas sensor
+### lider
+### ultrsonic
+### irsensor
+### light sencot
+### gas sensor
