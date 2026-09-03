@@ -4,7 +4,8 @@
 ##sensors used
 
 ### lider
-### ultrsonic
-### irsensor
-### light sencot
+### ultrasonic
+### ir sensor
+### light sensor
 ### gas sensor
+### pir sensor
