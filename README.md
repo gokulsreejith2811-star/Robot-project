@@ -3,9 +3,10 @@
 
 ##sensors used
 
-### lider
+### lidar
 ### ultrasonic
 ### ir sensor
 ### light sensor
 ### gas sensor
 ### pir sensor
+### touch sensor 
